@@ -1,6 +1,6 @@
 # NBA-Analytics-and-Predictions-2010-2021
-This is a analytically look at both NBA Teams and players performance across 10+ years of play.
-NBA teams stats were taken from season long games, while players stats were taking per game.
+This is an analytical look at both NBA Teams and players performance across 10+ years of play.
+NBA team stats were taken from season long games, while players stats were taken per game.
 Predictions were made using years of team stats to show which stats and metrics are most effective in
 predicting wins across a season.
 
