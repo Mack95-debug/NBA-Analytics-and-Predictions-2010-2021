@@ -17,13 +17,13 @@ import plotly.graph_objects as go
 import pandas as pd
 
 #NBA Players
-df = pd.read_csv('NBA Data/NBA_Player_stats_df.csv')
+df = pd.read_csv('NBA_Player_stats_df.csv')
 #NBA Teams
-tdf = pd.read_csv('NBA Data/NBA_Stats_2010-11_2020-21.csv')
+tdf = pd.read_csv('NBA_Stats_2010-11_2020-21.csv')
 #Stepwise predictions
-df1 = pd.read_csv('NBA Data/stepwise.csv')
+df1 = pd.read_csv('stepwise.csv')
 #Hand Picked Predictions
-df2 = pd.read_csv('NBA Data/Handpicked.csv')
+df2 = pd.read_csv('Handpicked.csv')
 
 # Figures
 fig1 = px.scatter(df1, 
