@@ -9,3 +9,5 @@ predicting wins across a season.
 I created this deployment to show the relation between both teams and players
 across a decade of play, to hopefully give a little insight on how the game has changed over
 the years, i.e., Evolution of 3 Point attempts and percentages by Teams and Players for example.
+
+All NBA stats taken from https://www.basketball-reference.com/
